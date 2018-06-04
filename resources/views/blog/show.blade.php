@@ -55,7 +55,6 @@
               </article>
 
               <!-- comments on here -->
-              
           </div>
             @include('layout.sidebar')
         </div>
